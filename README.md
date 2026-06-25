@@ -9,10 +9,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pratikkumarr/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pratikkumarr/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratikkumarr/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pratikkumarr/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pratikkumarr/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratikkumarr/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Hash Table
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
