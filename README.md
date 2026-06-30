@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/pratikkumarr/leetcode/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikkumarr/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pratikkumarr/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pratikkumarr/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/pratikkumarr/leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/pratikkumarr/leetcode/tree/master/0263-ugly-number) |
 ## String
 |  |
