@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikkumarr/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0274-h-index](https://github.com/pratikkumarr/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/pratikkumarr/leetcode/tree/master/0275-h-index-ii) |
+| [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikkumarr/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pratikkumarr/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pratikkumarr/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikkumarr/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0275-h-index-ii](https://github.com/pratikkumarr/leetcode/tree/master/0275-h-index-ii) |
 | [0367-valid-perfect-square](https://github.com/pratikkumarr/leetcode/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikkumarr/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pratikkumarr/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pratikkumarr/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratikkumarr/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -91,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/pratikkumarr/leetcode/tree/master/0274-h-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
