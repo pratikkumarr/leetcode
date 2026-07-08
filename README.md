@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratikkumarr/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/pratikkumarr/leetcode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/pratikkumarr/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikkumarr/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratikkumarr/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pratikkumarr/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/pratikkumarr/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pratikkumarr/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratikkumarr/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pratikkumarr/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pratikkumarr/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
