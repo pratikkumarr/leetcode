@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pratikkumarr/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/pratikkumarr/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/pratikkumarr/leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/pratikkumarr/leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/pratikkumarr/leetcode/tree/master/0367-valid-perfect-square) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pratikkumarr/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pratikkumarr/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pratikkumarr/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Simulation
