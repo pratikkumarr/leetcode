@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratikkumarr/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikkumarr/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pratikkumarr/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/pratikkumarr/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pratikkumarr/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2643-row-with-maximum-ones](https://github.com/pratikkumarr/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/pratikkumarr/leetcode/tree/master/2951-find-the-peaks) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/pratikkumarr/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratikkumarr/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratikkumarr/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/pratikkumarr/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratikkumarr/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pratikkumarr/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/pratikkumarr/leetcode/tree/master/3731-find-missing-elements) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pratikkumarr/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratikkumarr/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/pratikkumarr/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pratikkumarr/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/pratikkumarr/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Trie
 |  |
 | ------- |
