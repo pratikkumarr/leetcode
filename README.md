@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pratikkumarr/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/pratikkumarr/leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/pratikkumarr/leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/pratikkumarr/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/pratikkumarr/leetcode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/pratikkumarr/leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pratikkumarr/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pratikkumarr/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pratikkumarr/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pratikkumarr/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/pratikkumarr/leetcode/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
 | ------- |
