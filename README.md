@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratikkumarr/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pratikkumarr/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pratikkumarr/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pratikkumarr/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pratikkumarr/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/pratikkumarr/leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/pratikkumarr/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratikkumarr/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pratikkumarr/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pratikkumarr/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pratikkumarr/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
