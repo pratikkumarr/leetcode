@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pratikkumarr/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/pratikkumarr/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/pratikkumarr/leetcode/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/pratikkumarr/leetcode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pratikkumarr/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikkumarr/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratikkumarr/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/pratikkumarr/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/pratikkumarr/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
