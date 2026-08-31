@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratikkumarr/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratikkumarr/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pratikkumarr/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/pratikkumarr/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pratikkumarr/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratikkumarr/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikkumarr/leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/pratikkumarr/leetcode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/pratikkumarr/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratikkumarr/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/pratikkumarr/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratikkumarr/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pratikkumarr/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratikkumarr/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pratikkumarr/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/pratikkumarr/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratikkumarr/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pratikkumarr/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratikkumarr/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/pratikkumarr/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratikkumarr/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratikkumarr/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/pratikkumarr/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratikkumarr/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pratikkumarr/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pratikkumarr/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pratikkumarr/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/pratikkumarr/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pratikkumarr/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Trie
 |  |
