@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/pratikkumarr/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/pratikkumarr/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/pratikkumarr/leetcode/tree/master/0367-valid-perfect-square) |
+| [0836-rectangle-overlap](https://github.com/pratikkumarr/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/pratikkumarr/leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pratikkumarr/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratikkumarr/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -308,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratikkumarr/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/pratikkumarr/leetcode/tree/master/0039-combination-sum) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/pratikkumarr/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
