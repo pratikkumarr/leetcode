@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/pratikkumarr/leetcode/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/pratikkumarr/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/pratikkumarr/leetcode/tree/master/0877-stone-game) |
+| [1922-count-good-numbers](https://github.com/pratikkumarr/leetcode/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pratikkumarr/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratikkumarr/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pratikkumarr/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/pratikkumarr/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pratikkumarr/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pratikkumarr/leetcode/tree/master/0326-power-of-three) |
+| [1922-count-good-numbers](https://github.com/pratikkumarr/leetcode/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
