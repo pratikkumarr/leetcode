@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pratikkumarr/leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/pratikkumarr/leetcode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pratikkumarr/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/pratikkumarr/leetcode/tree/master/0079-word-search) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikkumarr/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratikkumarr/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pratikkumarr/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pratikkumarr/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pratikkumarr/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratikkumarr/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/pratikkumarr/leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/pratikkumarr/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pratikkumarr/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pratikkumarr/leetcode/tree/master/0242-valid-anagram) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pratikkumarr/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/pratikkumarr/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pratikkumarr/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikkumarr/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/pratikkumarr/leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -311,8 +314,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratikkumarr/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/pratikkumarr/leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/pratikkumarr/leetcode/tree/master/0079-word-search) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pratikkumarr/leetcode/tree/master/0836-rectangle-overlap) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/pratikkumarr/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
