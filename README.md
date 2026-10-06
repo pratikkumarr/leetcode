@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/pratikkumarr/leetcode/tree/master/0455-assign-cookies) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikkumarr/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/pratikkumarr/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/pratikkumarr/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/pratikkumarr/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pratikkumarr/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pratikkumarr/leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/pratikkumarr/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/pratikkumarr/leetcode/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratikkumarr/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pratikkumarr/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pratikkumarr/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
