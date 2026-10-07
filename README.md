@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/pratikkumarr/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pratikkumarr/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/pratikkumarr/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/pratikkumarr/leetcode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/pratikkumarr/leetcode/tree/master/0455-assign-cookies) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikkumarr/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pratikkumarr/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pratikkumarr/leetcode/tree/master/0022-generate-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/pratikkumarr/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/pratikkumarr/leetcode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/pratikkumarr/leetcode/tree/master/0877-stone-game) |
 ## Matrix
