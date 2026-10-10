@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/pratikkumarr/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/pratikkumarr/leetcode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/pratikkumarr/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pratikkumarr/leetcode/tree/master/0455-assign-cookies) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikkumarr/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/pratikkumarr/leetcode/tree/master/0860-lemonade-change) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratikkumarr/leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/pratikkumarr/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pratikkumarr/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/pratikkumarr/leetcode/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratikkumarr/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/pratikkumarr/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/pratikkumarr/leetcode/tree/master/0274-h-index) |
+| [0435-non-overlapping-intervals](https://github.com/pratikkumarr/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/pratikkumarr/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/pratikkumarr/leetcode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/pratikkumarr/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/pratikkumarr/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/pratikkumarr/leetcode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/pratikkumarr/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/pratikkumarr/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/pratikkumarr/leetcode/tree/master/0877-stone-game) |
 ## Matrix
 |  |
