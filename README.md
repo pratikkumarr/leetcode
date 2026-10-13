@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pratikkumarr/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pratikkumarr/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pratikkumarr/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratikkumarr/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pratikkumarr/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pratikkumarr/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pratikkumarr/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/pratikkumarr/leetcode/tree/master/0860-lemonade-change) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pratikkumarr/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratikkumarr/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pratikkumarr/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pratikkumarr/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/pratikkumarr/leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/pratikkumarr/leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/pratikkumarr/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pratikkumarr/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratikkumarr/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratikkumarr/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pratikkumarr/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
