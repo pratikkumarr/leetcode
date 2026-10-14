@@ -13,7 +13,7 @@ class Solution {
         return parts;
     }
     public int splitArray(int[] nums, int k) {
-        int low= nums[0], high = nums[0];
+        int low= nums[0], high = 0;
         for(int x : nums){
             low = Math.max(low, x);
             high += x;
